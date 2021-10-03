@@ -21,3 +21,6 @@
     font-size: 1em;
     font-weight: 550;
     }
+.nav-flex-row li a:hover{
+    background: #EAAB1B;
+    }
