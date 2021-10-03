@@ -43,3 +43,14 @@
     font-weight: 600;
     width: 25%;
     }
+.btn-1{
+    color: white;
+    background-color: #6CB840;
+    font-size: 14px;
+    letter-spacing: 2px;
+    padding: 16px 37px;
+    border-radius: 50px;
+    border: none;
+    font-family: 'poppins';
+    font-weight: bold;
+    }
