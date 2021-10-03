@@ -29,3 +29,10 @@
     font-weight: bolder;
     font-family: 'poppins';
     }
+.section1 {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 5.5%;
+    }
